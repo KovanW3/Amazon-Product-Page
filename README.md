@@ -6,6 +6,7 @@ Quick start:
 $ npm install
 $ npm start
 ````
+Amazon Product Page Project
 
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
